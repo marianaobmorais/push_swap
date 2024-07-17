@@ -1,0 +1,7 @@
+*.o
+.vscode
+.vscode/settings.json
+*.a
+push_swap
+a.out
+Makefile copy
